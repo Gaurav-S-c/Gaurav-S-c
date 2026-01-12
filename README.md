@@ -26,8 +26,8 @@ I believe in learning by doing — experimenting with code, solving problems, an
 | HTML                | Machine Learning (ML) | VS Code |
 | CSS                 | Deep Learning (DL)    | Git |
 | JavaScript          | AI Fundamentals       | GitHub |
-| Java                | NLP                   | Figma |
-| SQL (Basic)         | —                     | — |
+| SQL (Basic)         | NLP                   | Figma |
+| - |                 | — |                   | — |
 
 ---
 
@@ -46,17 +46,6 @@ I believe in learning by doing — experimenting with code, solving problems, an
 - ✅ Improve problem-solving and system design skills  
 - ✅ Prepare for internships and professional opportunities  
 - ✅ Contribute to open-source projects in the future  
-
----
-
-## 📌 Projects
-
-You can explore my repositories to see projects related to:
-- Web Development  
-- AI / ML based applications  
-- Java and problem-solving  
-
-More projects will be added as I continue learning and building.
 
 ---
 
