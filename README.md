@@ -70,15 +70,9 @@ Currently, I'm focused on Full-Stack Development with the modern JavaScript ecos
 
 ### 📊 DotTracker
 
-A full-stack productivity and habit-tracking platform designed to help users monitor progress, maintain consistency, and visualize growth through an intuitive dashboard.
+DotTracker is a full-stack job application tracking platform that helps job seekers organize and manage their entire application journey in one place. Users can track applications across multiple companies, monitor application statuses, save job descriptions, record important notes, and maintain a structured overview of their job search process.
 
-**Tech Stack:**
-
-* Next.js
-* React
-* TypeScript
-* Tailwind CSS
-* Supabase
+The platform provides a clean and responsive user experience using **React** and **Tailwind CSS**, while **Express.js** handles backend APIs and application logic. **Supabase** powers secure user authentication and cloud-based data storage, ensuring that every user's application data remains private and synchronized across sessions.
 
 ---
 
