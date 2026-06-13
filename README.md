@@ -1,52 +1,107 @@
-## Hi there 👋
-🧑‍💻 About Me
+# 👋 Hi, I'm Gaurav Sinha
 
-# 👋 Hi, I’m Gaurav Sinha
+### Full-Stack Developer • AI/ML Enthusiast • Computer Science Student
 
-Welcome to my GitHub profile!  
-I’m a Computer Science student passionate about **Full-Stack Web Development** and **Artificial Intelligence / Machine Learning**. I enjoy building projects, learning new technologies, and turning ideas into real-world applications.
+I'm a Computer Science student passionate about building scalable web applications and exploring Artificial Intelligence. I enjoy transforming ideas into real-world products through clean code, modern technologies, and continuous learning.
 
-I believe in learning by doing — experimenting with code, solving problems, and continuously improving my skills.
+Currently, I'm focused on Full-Stack Development with the modern JavaScript ecosystem while expanding my knowledge in AI, Machine Learning, and Deep Learning.
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
-- 🎓 Computer Science student  
-- 💻 Interested in **Full-Stack Development** and **AI / ML / DL**  
-- 🚀 Always exploring new tools and technologies  
-- 🛠 Focused on writing clean, structured, and efficient code  
-
----
-
-## 🛠 Tools & Technologies
-
-| 💻 Programming & Web | 🤖 AI / ML / DL | ⚙️ Tools & Platforms |
-|---------------------|---------------|---------------------|
-| HTML                | Machine Learning (ML) | VS Code |
-| CSS                 | Deep Learning (DL)    | Git |
-| JavaScript          | AI Fundamentals       | GitHub |
-| SQL (Basic)         | NLP                   | Figma |
-| - |                 | — |                   | — |
+* 🎓 Computer Science Student
+* 💻 Full-Stack Web Developer
+* 🤖 Passionate about AI, Machine Learning, and Deep Learning
+* 🌱 Always learning new technologies and development practices
+* 🛠️ Focused on building practical, real-world applications
+* ⚡ Strong believer in learning by building
 
 ---
 
-## 📚 What I’m Currently Doing
+## 🛠️ Tech Stack
 
-- 🚀 Learning **Full-Stack Web Development**  
-- 🧠 Strengthening concepts in **AI, Machine Learning, and Deep Learning**  
-- 🔨 Building personal projects to improve real-world skills  
-- 🎨 Improving UI/UX and portfolio design  
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+* TypeScript
+* React.js
+* Next.js
+* Tailwind CSS
+
+### Backend
+
+* Node.js
+* Express.js
+* REST APIs
+
+### Database & Backend Services
+
+* Supabase
+* SQL
+
+### AI / ML
+
+* Machine Learning
+* Deep Learning
+* Natural Language Processing (NLP)
+* AI Fundamentals
+
+### Tools & Platforms
+
+* Git
+* GitHub
+* VS Code
+* Figma
 
 ---
 
-## 🎯 Goals
+## 🚧 Current Project
 
-- ✅ Build impactful real-world projects  
-- ✅ Improve problem-solving and system design skills  
-- ✅ Prepare for internships and professional opportunities  
-- ✅ Contribute to open-source projects in the future  
+### 📊 DotTracker
+
+A full-stack productivity and habit-tracking platform designed to help users monitor progress, maintain consistency, and visualize growth through an intuitive dashboard.
+
+**Tech Stack:**
+
+* Next.js
+* React
+* TypeScript
+* Tailwind CSS
+* Supabase
 
 ---
 
-⭐ *If you find my work interesting, feel free to star my repositories and follow my journey!* 
+## 📚 Currently Exploring
+
+* Advanced Full-Stack Architecture
+* System Design Fundamentals
+* AI Engineering
+* Large Language Models (LLMs)
+* Scalable Backend Development
+
+---
+
+## 🎯 Goals for 2026
+
+* 🚀 Build and deploy impactful production-ready applications
+* 🤝 Contribute to open-source projects
+* 🧠 Strengthen AI Engineering and Machine Learning skills
+* 💼 Secure exciting internship and professional opportunities
+* 🌍 Create products that solve real-world problems
+
+---
+
+## 📈 GitHub Stats
+
+> Building consistently, learning continuously, and improving one project at a time.
+
+---
+
+### Let's Connect!
+
+If you find my work interesting, feel free to explore my repositories, star projects you like, and follow my journey as a developer.
+
+⭐ Thanks for visiting my profile!
