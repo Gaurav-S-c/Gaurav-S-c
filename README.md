@@ -21,19 +21,48 @@ Currently, I'm focused on Full-Stack Development with the modern JavaScript ecos
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mysql,supabase,python,tensorflow,git,github,vscode,figma" />
+### Frontend
 
-</div>
+| HTML                                                        | CSS                                                        | JavaScript                                                | TypeScript                                                | React                                                        | Next.js                                                       | Tailwind                                                        |
+| ----------------------------------------------------------- | ---------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------- | --------------------------------------------------------------- |
+| <img src="https://skillicons.dev/icons?i=html" width="50"/> | <img src="https://skillicons.dev/icons?i=css" width="50"/> | <img src="https://skillicons.dev/icons?i=js" width="50"/> | <img src="https://skillicons.dev/icons?i=ts" width="50"/> | <img src="https://skillicons.dev/icons?i=react" width="50"/> | <img src="https://skillicons.dev/icons?i=nextjs" width="50"/> | <img src="https://skillicons.dev/icons?i=tailwind" width="50"/> |
 
-<p align="center">
+### Backend
 
-💡 Full-Stack Development • AI/ML • Deep Learning • NLP
+| Node.js                                                       | Express                                                        |
+| ------------------------------------------------------------- | -------------------------------------------------------------- |
+| <img src="https://skillicons.dev/icons?i=nodejs" width="50"/> | <img src="https://skillicons.dev/icons?i=express" width="50"/> |
 
-📊 Jupyter Notebook • Google Colab • NumPy • Pandas • Matplotlib
+### Databases & Backend Services
 
-</p>
+| MySQL                                                        | Supabase                                                        |
+| ------------------------------------------------------------ | --------------------------------------------------------------- |
+| <img src="https://skillicons.dev/icons?i=mysql" width="50"/> | <img src="https://skillicons.dev/icons?i=supabase" width="50"/> |
+
+### AI / ML
+
+| Python                                                        | TensorFlow                                                        |
+| ------------------------------------------------------------- | ----------------------------------------------------------------- |
+| <img src="https://skillicons.dev/icons?i=python" width="50"/> | <img src="https://skillicons.dev/icons?i=tensorflow" width="50"/> |
+
+**Additional Technologies**
+
+* Machine Learning
+* Deep Learning
+* Natural Language Processing (NLP)
+* NumPy
+* Pandas
+* Matplotlib
+* Jupyter Notebook
+* Google Colab
+
+### Tools & Platforms
+
+| Git                                                        | GitHub                                                        | VS Code                                                       | Figma                                                        |
+| ---------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------ |
+| <img src="https://skillicons.dev/icons?i=git" width="50"/> | <img src="https://skillicons.dev/icons?i=github" width="50"/> | <img src="https://skillicons.dev/icons?i=vscode" width="50"/> | <img src="https://skillicons.dev/icons?i=figma" width="50"/> |
 
 ---
 
