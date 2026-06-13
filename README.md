@@ -23,9 +23,17 @@ Currently, I'm focused on Full-Stack Development with the modern JavaScript ecos
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,supabase,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mysql,supabase,python,tensorflow,git,github,vscode,figma" />
 
 </div>
+
+<p align="center">
+
+💡 Full-Stack Development • AI/ML • Deep Learning • NLP
+
+📊 Jupyter Notebook • Google Colab • NumPy • Pandas • Matplotlib
+
+</p>
 
 ---
 
