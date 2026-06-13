@@ -21,40 +21,11 @@ Currently, I'm focused on Full-Stack Development with the modern JavaScript ecos
 
 ## 🛠️ Tech Stack
 
-### Frontend
+<div align="center">
 
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* TypeScript
-* React.js
-* Next.js
-* Tailwind CSS
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,supabase,git,github,vscode,figma" />
 
-### Backend
-
-* Node.js
-* Express.js
-* REST APIs
-
-### Database & Backend Services
-
-* Supabase
-* SQL
-
-### AI / ML
-
-* Machine Learning
-* Deep Learning
-* Natural Language Processing (NLP)
-* AI Fundamentals
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* VS Code
-* Figma
+</div>
 
 ---
 
